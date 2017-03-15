@@ -12,4 +12,4 @@ function build_img() {
 }
 
 IMGPREFIX=hal433
-build_img $IMGPREFIX docker-postgres-hive
+build_img $IMGPREFIX postgres-hive
